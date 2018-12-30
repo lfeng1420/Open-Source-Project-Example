@@ -1,5 +1,5 @@
 build:
-  project: maintest.sln
+  project: $(project_name)
 
 install:
   - git submodule update --init --recursive
