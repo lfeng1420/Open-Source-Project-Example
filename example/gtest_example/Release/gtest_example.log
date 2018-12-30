@@ -1,7 +1,0 @@
-﻿  pch.cpp
-  BaseTest.cpp
-  Main.cpp
-  Generating code
-  All 479 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
-  Finished generating code
-  gtest_example.vcxproj -> D:\Project\Git\Open-Source-Project-Example\example\Release\gtest_example.exe

@@ -1,4 +1,9 @@
 .vs
 *.suo
+temp
+lib
+executable
 Debug
 x64
+Release
+Win32
