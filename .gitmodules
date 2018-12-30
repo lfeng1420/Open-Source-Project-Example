@@ -1,6 +1,6 @@
-[submodule "googltest/googletest"]
-	path = googltest/googletest
+[submodule "googletest"]
+	path = googletest
 	url = git://github.com/google/googletest.git
-[submodule "protobuf/protobuf"]
-	path = protobuf/protobuf
+[submodule "protobuf"]
+	path = protobuf
 	url = git://github.com/protocolbuffers/protobuf.git
